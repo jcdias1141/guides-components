@@ -1,6 +1,6 @@
 .botao{
-    background-color: #FFCB47;
-    color: #fff;
+    background-color: var(--amarelo);
+    color: var(--branco);
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     width: 100%;

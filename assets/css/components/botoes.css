@@ -5,7 +5,7 @@
     font-family: inherit;
     width: 100%;
     padding: 20px;
-    box-shadow: 10px 10px  30px #ffcb473d;
+    box-shadow: 10px 10px  30px var(--amarelo-transparent);
     border: none;
 }
 

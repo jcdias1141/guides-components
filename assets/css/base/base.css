@@ -6,11 +6,16 @@
 body{
     font-family: var(--familia-corpo);
     font-size: var(--tamanho-corpo);
-    
     background: url('../../img/fundo-textura.png'), url('../../img/fundo-linhas.png');
     background-position: center;
 }
 
 .container {
     padding: 0 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    row-gap: 12px;
 }
